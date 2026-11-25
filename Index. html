@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>OnyiiTech AI | Portfolio</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: #0b1020;
+      color: white;
+      text-align: center;
+    }
+    header {
+      padding: 25px;
+      background: #111a33;
+    }
+    h1 { color: #38bdf8; }
+    section { padding: 55px 20px; }
+    .btn {
+      display: inline-block;
+      padding: 12px 25px;
+      background: #38bdf8;
+      color: #07111f;
+      text-decoration: none;
+      border-radius: 8px;
+    }
+    .skills {
+      color: #38bdf8;
+      line-height: 2;
+    }
+    footer {
+      padding: 20px;
+      background: #111a33;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>OnyiiTech AI</h1>
+    <p>Web Developer | AI Enthusiast</p>
+  </header>
+
+  <section>
+    <h1>Welcome to OnyiiTech AI</h1>
+    <p>Hello! I'm a Computer Science student passionate about
+    web development and artificial intelligence.</p>
+    <a class="btn" href="#about">Explore My Work</a>
+  </section>
+
+  <section id="about">
+    <h1>About Me</h1>
+    <p>I am learning to build modern websites and explore
+    the possibilities of AI technology.</p>
+  </section>
+
+  <section>
+    <h1>My Skills</h1>
+    <p class="skills">
+      HTML<br>
+      CSS<br>
+      JavaScript<br>
+      C Programming<br>
+      AI Tools
+    </p>
+  </section>
+
+  <footer>
+    <p>© 2026 OnyiiTech AI. All Rights Reserved.</p>
+  </footer>
+
+</body>
+</html>
